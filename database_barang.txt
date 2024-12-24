@@ -1,0 +1,6 @@
+Aqua_Kecil 3000
+Aqua_Besar 5000
+Indomie_Goreng 3200
+Indomie_Soto 3500
+Sponge_Coklat 15600
+Silverqueen_Matcha 23500
