@@ -1,6 +1,6 @@
-Aqua_Kecil 3000
-Aqua_Besar 5000
-Indomie_Goreng 3200
-Indomie_Soto 3500
-Sponge_Coklat 15600
-Silverqueen_Matcha 23500
+aqua_kecil 3000
+aqua_besar 5000
+indomie_goreng 3200
+indomie_soto 3500
+sponge_coklat 15600
+silverqueen_matcha 23500
